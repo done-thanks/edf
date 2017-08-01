@@ -1,0 +1,23 @@
+{
+    "name": "edf",
+    "version": "1.0.0",
+    "description": "Nothing yet",
+    "main": "index.js",
+    "scripts": {
+        "serve": "http-server",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/done-thanks/edf.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/done-thanks/edf/issues"
+    },
+    "homepage": "https://github.com/done-thanks/edf#readme",
+    "devDependencies": {
+        "http-server": "^0.10.0"
+    }
+}
